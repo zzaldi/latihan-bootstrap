@@ -1,0 +1,3 @@
+1. Buat 1 folder dengan nama kalian [bayupm]
+2. Buat branch baru dengan nama [kalian]
+2. Simpan kode proyek bootstrap yang ada direplit simpan di dalam folder [namakalian]
